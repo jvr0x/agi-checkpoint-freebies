@@ -1,5 +1,7 @@
 # AGI Checkpoint freebies
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N3G523DOM0)
+
 Free downloads from [AGI Checkpoint](https://agicheckpoint.com), a weekly newsletter on open-weight models, research, training recipes and tools for people who run AI on their own hardware.
 
 ## Local AI Cheat Sheet
